@@ -29,7 +29,7 @@ Relational Scheme
 
 ## JDBC Project
 
-- A simple database using NetBeans MySQL and Java. 
+A simple database using NetBeans MySQL and Java. 
 
 - Collaborated with [Sarah Han](https://github.com/jihye13621)
 
