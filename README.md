@@ -1,4 +1,5 @@
-# Automotive Supplier Database
+# Database projects
+## Automotive Supplier Database
 
 - Led and managed a team of 4 build an automotive supplier database using Java and NetBeans MySQL.
 
@@ -24,3 +25,12 @@ UML
 
 Relational Scheme
 ![Relation Scheme](https://i.gyazo.com/14069107c02a8385d5993a72babd4a57.png)
+
+
+## JDBC Project
+
+- A simple database using NetBeans MySQL and Java. 
+
+- Collaborated with [Sarah Han](https://github.com/jihye13621)
+
+
