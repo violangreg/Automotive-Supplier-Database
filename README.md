@@ -11,7 +11,7 @@
 
 - Managed with GitHub, Trello, and Discord. Teamwork and team management increased work efficiency.
 
-- Showcase page: http://www.sarahjhan.co/class-diagrams. *Collaborated with Sarah Han.
+- Showcase page: http://www.sarahjhan.co/class-diagrams. *Collaborated with [Sarah Han](https://github.com/jihye13621).
 
 
 
