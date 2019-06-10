@@ -1,4 +1,4 @@
-## Automotive Supplier Database
+## Dave's Automotive Database
 
 - Led and managed a team of 4 build an automotive supplier database using Java and NetBeans MySQL.
 
